@@ -7,8 +7,8 @@ The code provided here allows users to reproduce the Monte Carlo simulation expe
 
 ## Repository Structure
 - `code/`: Contains the Python scripts used to run the Monte Carlo experiments, construct the Model Confidence Sets, apply the different covariance matrix estimators, and produce the final metrics.
-- `data/`: Used for storing any generated intermediate simulated data sets (the data in the paper is fully simulated).
-- `results/`: The output directory where the final tables (reporting Coverage, False Positive Rate, and MCS Size) and heatmaps (Figures 1-12).
+- `data/`: Used for storing the simulated data sets (the data in the paper is fully simulated).
+- `results/`: The output directory where containing final tables.
 
 ## Requirements
 The replication code is written in **Python**. To run the scripts, you will need the following libraries:

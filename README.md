@@ -1,4 +1,4 @@
-Confidence Sets for the Sample Average Approximation of Stochastic Discrete Optimization Problems
+### Confidence Sets for the Sample Average Approximation of Stochastic Discrete Optimization Problems
 
 ## Description
 This repository contains the replication package for the paper **"Confidence Sets for the Sample Average Approximation of Stochastic Discrete Optimization Problems."** The paper proposes a method to build strong confidence sets for the solutions of stochastic discrete optimization problems solved through the sample average approximation (SAA) method, combining the concept of Model Confidence Sets (MCS) with shrinkage estimation of large covariance matrices. 
